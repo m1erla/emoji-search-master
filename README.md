@@ -1,8 +1,23 @@
+Install
+
+First you have to install yarn, then you should also install dependencies and some upgrades from below.
+---
+`yarn add react-scripts`
+
+`yarn upgrade @testing-library/react@release-12.x`
+
+`yarn add --dev @testing-library/jest-dom`
+
+`yarn add --dev @testing-library/user-event`
+
+`yarn add  @testing-library/dom`
+  
+
+`npm install`
+
 # Emoji Test Img
 
-
 ![ss](public/assets/emoji-tests.png)
-
 
 ---
 
@@ -76,31 +91,6 @@ describe("Emoji input tests", () => {
 
 
 ```
-
----
-
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
-
-
-Install
-
-First you have to install yarn, then you should also install dependencies and some upgrades from below.
----
-`yarn add react-scripts`
-
-`yarn upgrade @testing-library/react@release-12.x`
-
-`yarn add --dev @testing-library/jest-dom`
-
-`yarn add --dev @testing-library/user-event`
-
-`yarn add  @testing-library/dom`
-  
-
-`npm install`
-
-
 
 Usage
 ---
