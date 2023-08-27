@@ -85,7 +85,7 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 
 Install
 
-You should first install yarn after that you should also install dependincies and some upgrade transactions from the below.
+First you have to install yarn, then you should also install dependencies and some upgrades from below.
 ---
 `yarn add react-scripts`
 
